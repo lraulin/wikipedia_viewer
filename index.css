@@ -1,0 +1,25 @@
+.block {
+  background-color: black;
+  opacity: .9;
+  color: white;
+  padding: 50px;
+  width: 75%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 15px;
+  font-size: 1.5 em;
+  padding-bottom: 2%;
+}
+
+.spacer {
+  padding: 4%;
+}
+
+body {
+  background: url("https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1122px-Wikipedia-logo-v2.svg.png") no-repeat center center fixed;
+  background-size: cover;
+}
+
+#searchTerm {
+  color: black;
+}
